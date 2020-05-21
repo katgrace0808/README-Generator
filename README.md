@@ -1,10 +1,10 @@
 
-# kat
+# README Generator
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
 ## Description
-  kat
+  This is a command-line application that dynamically creates a workable README document for projects.
     
 ## Table of Contents
   * [Installation](#installation)
@@ -20,13 +20,13 @@
   npm i
 
 ## Usage
-  
+  To create a README document that describes the project and the applicable information.
 
 ## License
-  MIT
+  ISC
 
 ## Contributing
-  ;
+  
 
 ## Tests
   
@@ -34,4 +34,4 @@
 ## Questions
     
 ## Author
-  Kathryn
+  Kathryn Teall
